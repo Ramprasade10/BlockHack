@@ -39,5 +39,5 @@ Python, flask(Server), HTML5, CSS,JSON.
 ### Future Implementation
 ***
 
-* Re-writing the implementation using Solidarity(Dapp)
+* Re-writing the implementation using Solidity(Dapp)
 * Adding biometrics support to android app.
